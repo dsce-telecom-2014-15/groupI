@@ -11,6 +11,7 @@ public class oddeven_add {
 		   rem=a[i][j]%2;
     if(rem==0){
 			sum1=sum1+a[i][j];
+			//TODO: Unnecessary comments should be removed.
 			//System.out.println("even num :" +a[i][j]);
 		}
 	else{
